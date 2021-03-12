@@ -18,7 +18,7 @@ header:
   caption: "Photo by Lacie Slezak on [**Unsplash**](https://unsplash.com/photos/7yqyQQXgOT8)"
   actions:
     - label: "Join the waitlist"
-      url: "/#register"
+      url: "/#join-the-waitlist"
 ---
 
 # Costa Rica Deep Learning Retreat
@@ -27,7 +27,19 @@ Begin your deep learning journey steps away from the beach. Whether you have som
 
 ## What you will learn
 
-The course is a mix of theory and hands-on coding exercises and projects. You can find a detailed list of the materials covered [here](/content).
+![image-left](/assets/images/surface-Jk7OGT8s63o-unsplash_resize.jpg){: .align-left}
+The course is a mix of theory and hands-on coding exercises and projects. 
+
+[Course Content](/content){: .btn .btn--success}
+
+
+## Tuition
+* Earlybird registration (before September 1st): 2249$ USD / person
+* Regular registration: 2449$ USD / person
+
+Students get a 10% discount.
+
+[Detailed Pricing](/faq/#tuition){: .btn .btn--success}
 
 ## Location
 <iframe
@@ -41,33 +53,19 @@ The course is a mix of theory and hands-on coding exercises and projects. You ca
 </iframe>
 Uvita, Costa Rica, bahia ballena (whale's tale)
 
-## Teachers
+## The Team
 The retreat is guided by deep learning experts with years of experience in both research and industry.
 
-## Tuition
-* Earlybird registration (before September 1st): 2249 USD / person
-* Regular registration: 2449 USD / person
-
-Students get a 10% discount.
-
-Click [here](/faq/#tuition) for more information about what is included in the cost of the tuition.
-
+[The Team](/content/team){: .btn .btn--success}
 
 ## Schedule
-The detailed schedule can be found [here](/content/#detailed-schedule).  It includes theory classes in the morning as well as guided practical sessions in the afternoon. The week is set as follows
+Courses are held Monday to Saturday. Each day includes theory classes in the morning as well as guided coding sessions in the afternoon.
 
-|Monday-Saturday    |Content| 
----                 | --- | 
-|09:00 am - 11:30 am|Theory |
-|11:30 am - 1:00 pm |Lunch|
-|1:00 pm - 4:00 pm  |Coding Sessions|
-|4:00 - 5:00 pm (optional)  | Wrap up, focused discussions |
+[Full Schedule](/content/#schedule){: .btn .btn--success}
 
-Sunday No class - go enjoy the beaches, surfing, etc. We have tons of activities to recommend and can organize excursions to nearby beaces, parks, waterfalls, snorkeling, etc.
-
-
-## Register
-### Sign up now for priority access to our waiting list
+## Join the waitlist
+Spots are limited, we only accept 10 participants. We operate on a first-come first-serve basis.
+Sign up now for priority access to our waiting list.
 <form action="https://getform.io/f/5ab96625-9dd5-4624-a113-f0c223828e07" method="POST">
   <div class="form-group">
     <label for="exampleInputEmail1" required="required">Email address</label>
@@ -99,3 +97,7 @@ Sunday No class - go enjoy the beaches, surfing, etc. We have tons of activities
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+
+## Have more questions?
+
+Get in touch with us at deeplearningcostarica@gmail.com

@@ -20,4 +20,15 @@ The course is a mix of theory and hands-on practice in the form of coding assign
 * Model deployment - Deploying and maintaning models, edge computing, scaling concepts
 
 
+## Schedule
+
+|Monday-Saturday    |Content| 
+---                 | --- | 
+|09:00 am - 11:30 am|Theory |
+|11:30 am - 1:00 pm |Lunch|
+|1:00 pm - 4:00 pm  |Coding Sessions|
+|4:00 - 5:00 pm (optional)  | Wrap up, focused discussions |
+
+Sunday No class - go enjoy the beaches, surfing, etc. We have tons of activities to recommend and can organize excursions to nearby beaces, parks, waterfalls, snorkeling, etc.
+
 ## Detailed Schedule
