@@ -1,13 +1,13 @@
 ---
 permalink: /content/
-title: "Course Contents"
+title: "Retreat Contents"
 ---
 
-The goal of the course is to indtroduce and apply all of the common building blocks in common deep learning applicatins.
+The goal of the retreat is to introduce and apply all of the common building blocks in common deep learning applications.
 
-It presents all the theory you needto start applying deep learning in practice and teaches you how to implement it using the latest tools and libraries (pytorch, tensorflow, GPUs, TPUs, etc.)  . By the end of this program, you should have enough basic knowledge to start implementing your own ideas.
+It presents all the theory you need to start applying deep learning in practice and teaches you how to implement it using the latest tools and libraries (pytorch, tensorflow, GPUs, TPUs, etc.)  . By the end of this program, you should have enough basic knowledge to start implementing your own ideas.
 
-The course is a mix of theory and hands-on practice in the form of coding assignments. 
+The retreat is a mix of theory and hands-on practice in the form of coding assignments. 
 
 ## Topics Covered
 

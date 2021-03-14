@@ -34,6 +34,13 @@ def main():
     ")
 ```
 
+## During this retreat you will...
+
+🐍  Learn to use python and popular deep learning frameworks ([tensorflow](https://www.tensorflow.org/), [pytorch](https://pytorch.org/)) 
+
+📓 Understand the basic theory of deep learning 
+
+💻  Apply deep learning in the wild
 
 
 ## What you will learn
@@ -45,20 +52,16 @@ Whether you have some basic deep learning knowledge or are curious about it and 
 The course is designed as a mix of theory and hands-on coding exercises and projects. 
 
 <br/><br/>
-### During this retreat you will...
-* Learn to use python and popular deep learning frameworks ([tensorflow](https://www.tensorflow.org/), [pytorch](https://pytorch.org/)) 
-* Understand the basic theory of deep learning 
-* Apply deep learning in the wild
 
 
-[Full Content](/content){: .btn .btn--success}
+
+[Retreat Outline](/content){: .btn .btn--success}
 
 
 ## The Team
 The retreat is guided by deep learning experts with years of experience in both research and industry.
 
 [The Team](){: .btn .btn--success}
-<!-- [The Team](/content/team){: .btn .btn--success} -->
 
 ## Schedule
 Courses are held Monday to Saturday. Each day includes theory classes in the morning as well as guided coding sessions in the afternoon.
@@ -66,7 +69,7 @@ Courses are held Monday to Saturday. Each day includes theory classes in the mor
 [Full Schedule](/content/#schedule){: .btn .btn--success}
 
 
-## Tuition
+## Cost
 
 |Registration    |Cost (USD)|
 ---              | --- | 

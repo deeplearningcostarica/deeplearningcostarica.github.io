@@ -6,7 +6,7 @@ title: "Frequently Asked Questions"
 ## Dates
 The first edition will take place December 7th to 21st 2021.
 
-## Cancellation policy
+<!-- ## Cancellation policy -->
 
 
 ## Tuition
