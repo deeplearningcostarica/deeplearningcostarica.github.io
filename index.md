@@ -2,6 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+classes: wide
 title: "Costa Rica Deep Learning Retreat"
 layout: collection
 <!-- layout: posts -->
@@ -20,24 +21,57 @@ header:
     - label: "Join the waitlist"
       url: "/#join-the-waitlist"
 ---
-
 # Costa Rica Deep Learning Retreat
-Begin your deep learning journey steps away from the beach. Whether you have some basic deep learning knowledge or are curious about it and want to get your feet wet, this course is for you. You will teach you all the basics for applying deep learning to real world problems.  
+
+```python
+def main():
+    print("
+    🏖️ Costa Rica deep learning retreat            # Begin your deep learning journey
+    💻 Code during the day ...                     # steps away from the beach. 
+    🏄 Surf in the evening
+    🤙 Pura Vida # 
+    📫 deeplearningcostarica@gmail.com 
+    ")
+```
+
 
 
 ## What you will learn
 
-![image-left](/assets/images/surface-Jk7OGT8s63o-unsplash_resize.jpg){: .align-left}
-The course is a mix of theory and hands-on coding exercises and projects. 
+<!-- ![image-left](/assets/images/surface-Jk7OGT8s63o-unsplash_resize.jpg){: .align-left} -->
+![image-left](/assets/images/whatyoulearn_small.jpg){: .align-left}
+Whether you have some basic deep learning knowledge or are curious about it and want to get your feet wet, this course is for you.  
 
-[Course Content](/content){: .btn .btn--success}
+The course is designed as a mix of theory and hands-on coding exercises and projects. 
+
+<br/><br/>
+### During this retreat you will...
+* Learn to use python and popular deep learning frameworks ([tensorflow](https://www.tensorflow.org/), [pytorch](https://pytorch.org/)) 
+* Understand the basic theory of deep learning 
+* Apply deep learning in the wild
+
+
+[Full Content](/content){: .btn .btn--success}
+
+
+## The Team
+The retreat is guided by deep learning experts with years of experience in both research and industry.
+
+[The Team](){: .btn .btn--success}
+<!-- [The Team](/content/team){: .btn .btn--success} -->
+
+## Schedule
+Courses are held Monday to Saturday. Each day includes theory classes in the morning as well as guided coding sessions in the afternoon.
+
+[Full Schedule](/content/#schedule){: .btn .btn--success}
 
 
 ## Tuition
-* Earlybird registration (before September 1st): 2249$ USD / person
-* Regular registration: 2449$ USD / person
 
-Students get a 10% discount.
+|Registration    |Cost (USD)|
+---              | --- | 
+|Earlybird (before Sep. 1st) |2249$|
+|Regular|2499$|
 
 [Detailed Pricing](/faq/#tuition){: .btn .btn--success}
 
@@ -52,16 +86,6 @@ Students get a 10% discount.
   &maptype=satellite" allowfullscreen>
 </iframe>
 Uvita, Costa Rica, bahia ballena (whale's tale)
-
-## The Team
-The retreat is guided by deep learning experts with years of experience in both research and industry.
-
-[The Team](/content/team){: .btn .btn--success}
-
-## Schedule
-Courses are held Monday to Saturday. Each day includes theory classes in the morning as well as guided coding sessions in the afternoon.
-
-[Full Schedule](/content/#schedule){: .btn .btn--success}
 
 ## Join the waitlist
 Spots are limited, we only accept 10 participants. We operate on a first-come first-serve basis.
@@ -100,4 +124,4 @@ Sign up now for priority access to our waiting list.
 
 ## Have more questions?
 
-Get in touch with us at deeplearningcostarica@gmail.com
+Get in touch with us at [deeplearningcostarica@gmail.com](mailto:deeplearningcostarica@gmail.com)

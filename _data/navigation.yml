@@ -1,9 +1,9 @@
 main:
   - title: "Register"
-    url: /#register
+    url: /#join-the-waitlist
   - title: "Course Content"
     url: /content/
   - title: "The Team"
-    url: /#the-team
+    url: /team/
   - title: "FAQ"
     url: /faq/

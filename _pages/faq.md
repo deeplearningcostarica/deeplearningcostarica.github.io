@@ -10,8 +10,11 @@ The first edition will take place December 7th to 21st 2021.
 
 
 ## Tuition
-* Earlybird registration (before September 1st): 2249 USD / person
-* Regular registration: 2449 USD / person
+
+|Registration    |Cost (USD)|
+---              | --- | 
+|Earlybird (before Sep. 1st) |2249$|
+|Regular|2499$|
 
 
 Students get a 10% discount.

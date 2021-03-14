@@ -11,24 +11,33 @@ The course is a mix of theory and hands-on practice in the form of coding assign
 
 ## Topics Covered
 
-* Python tools - library management, virtual environments, numpy, pandas, jupyter notebooks + colab 
-* Machine learning concepts: classification, regression, gradient descent + backpropagation, clustering
-* Deep learning Concepts - Multi Layer perceptrons, Convolutional Neural Networks, RNN/LSTM, Transformers, etc.
-* Deep learning applications - Computer Vision, Natural Language Processing, Sound Processing, time-series forecasting
-* Deep learning Libraries - Pytorch, tensorfow/keras
-* Experiment Management tool/concepts - monitoring results, model selection, hyperparameter optimization
-* Model deployment - Deploying and maintaning models, edge computing, scaling concepts
+* Python tools 
+  - library management, virtual environments, numpy, pandas, jupyter notebooks + colab 
+* Machine learning concepts 
+  - classification, regression, gradient descent + backpropagation, clustering
+* Deep learning Concepts 
+  - Multi Layer perceptrons, Convolutional Neural Networks, RNN/LSTM, Transformers, etc.
+* Deep learning applications 
+  - Computer Vision, Natural Language Processing, Sound Processing, time-series forecasting
+* Deep learning Libraries 
+  - Pytorch, tensorfow/keras
+* Experiment Management tool/concepts 
+  - monitoring results, model selection, hyperparameter optimization
+* Model deployment 
+  - Deploying and maintaning models, edge computing, scaling concepts
 
 
 ## Schedule
 
-|Monday-Saturday    |Content| 
----                 | --- | 
-|09:00 am - 11:30 am|Theory |
-|11:30 am - 1:00 pm |Lunch|
-|1:00 pm - 4:00 pm  |Coding Sessions|
-|4:00 - 5:00 pm (optional)  | Wrap up, focused discussions |
+|Monday-Saturday            |Content              | Sunday
+---                         | ---                 | --- 
+| 09:00 am - 11:30 am       | Theory              | Off 
+| 11:30 am - 1:00 pm        | Lunch               | Off
+| 1:00 pm - 4:00 pm         | Coding Sessions     | Off 
+| 4:00 - 5:00 pm (optional) | Focused discussions | Off       
 
-Sunday No class - go enjoy the beaches, surfing, etc. We have tons of activities to recommend and can organize excursions to nearby beaces, parks, waterfalls, snorkeling, etc.
 
-## Detailed Schedule
+
+Sunday are your day off - go enjoy the beaches, surfing, etc. 
+
+We have tons of activities to recommend and organize excursions to nearby beaces, parks, waterfalls, snorkeling, etc.

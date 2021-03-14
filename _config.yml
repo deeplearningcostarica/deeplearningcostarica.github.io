@@ -27,7 +27,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 0 # amount of posts to show
@@ -73,6 +74,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/deeplearningcostarica"
     - label: "deeplearningcostarica@gmail.com"
+      icon: "far fa-envelope"
       url: "mailto:deeplearningcostarica@gmail.com"
 
 footer:
@@ -86,6 +88,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/deeplearningcostarica"
+syntax-highlighting: solarized-light
 
 defaults:
   # _posts
