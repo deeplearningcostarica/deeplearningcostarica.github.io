@@ -49,10 +49,7 @@ def main():
 ![image-left](/assets/images/whatyoulearn_small.jpg){: .align-left}
 Whether you have some basic deep learning knowledge or are curious about it and want to get your feet wet, this course is for you.  
 
-The course is designed as a mix of theory and hands-on coding exercises and projects. 
-
-<br/><br/>
-
+The course is designed as a mix of theory and hands-on coding exercises and projects. Morning lectures are complemented by afternoon coding sessions. 
 
 
 [Retreat Outline](/content){: .btn .btn--success}
